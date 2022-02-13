@@ -1,5 +1,11 @@
 # mobx
 
+## 6.4.0
+
+### Minor Changes
+
+-   [`6b926833`](https://github.com/mobxjs/mobx/commit/6b926833ac7abbf92ff5c309613d2345f72527ee) [#3287](https://github.com/mobxjs/mobx/pull/3287) Thanks [@kubk](https://github.com/kubk)! - Remove any from 'merge' and 'replace' methods of ObservableMap
+
 ## 6.3.13
 
 ### Patch Changes
